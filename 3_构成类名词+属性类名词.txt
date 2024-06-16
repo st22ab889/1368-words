@@ -1,0 +1,82 @@
+构成类名词：你的外在与内在
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+核心词
+	part
+部位
+	side edge base core
+身体
+	head eye ear face nose foot mouth tooth tongue neck shoulder breast
+	chest stomach arm hand finger nail leg knee throat brain heart lung
+	muscle bone nerve hair skin blood sweat
+精神
+	mind spirit soul emotion
+	feeling：shame stress respect desire pain sense
+力量
+	strength force
+	power：authority
+	ability：sight intelligence memory skill
+动物
+	tail wing
+植物
+	flower leaf root branch
+其他
+	whole rest half
+
+========================================================================
+关于构成类名词的解读
+总单词量：65个
+类别：8个
+
+
+属性类名词：你的状态
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+静态属性
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+形状
+	shape appearance
+尺寸
+	size space
+位置
+	position
+	point line end
+	bottom middle top front back center corner left right direction：east
+	west north south
+品质
+	quality feature character personality
+其他属性
+	color
+	weight
+	tone
+	material
+	structure
+数量
+	amount number measurement distance volume angle temperature
+	level：degree grade rank standard
+	rate：speed percentage
+类别
+	kind type
+	
+	
+动态属性
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+方式
+	form
+	way：behavior mood logic tradition culture style pattern relation
+	manner
+原因
+	cause reason source excuse factor
+目的
+	purpose goal
+结果
+	effect result
+过程
+	course process
+
+========================================================================
+关于属性类名词的解读
+总单词量：70个
+类别：12个
